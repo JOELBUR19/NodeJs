@@ -1,0 +1,21 @@
+{
+  "name": "nodejsclase",
+  "version": "1.0.0",
+  "description": "Habia una vez...",
+  "homepage": "https://github.com/JOELBUR19/NodeJs#readme",
+  "bugs": {
+    "url": "https://github.com/JOELBUR19/NodeJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JOELBUR19/NodeJs.git"
+  },
+  "license": "ISC",
+  "author": "JOELBUR19",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
